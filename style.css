@@ -50,12 +50,12 @@ body {
     text-shadow: .1rem .1rem .8rem black;
     padding-bottom: .3rem;
 }
-/*hr.one {*/
-/*    border: 1px solid white;*/
-/*    width: 800px;*/
 
-
+.caption hr.one {
+    border: 1px solid white;
+    width: 800px;
 }
+
 .caption h3 {
     font-size: 1rem;
     text-shadow: .1rem .1rem .5rem black;
@@ -64,8 +64,8 @@ body {
 
 .btn-lg {
     border-width: medium;
-    border-radius: 0;
-    padding: .6rem 1.3rem;
+    /*border-radius: 0;*/
+    padding: .3rem 1.1rem;
     font-size: 1.1rem;
 }
 
