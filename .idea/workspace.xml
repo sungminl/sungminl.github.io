@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="411bb1c2-8b91-4151-bc20-7840eea33921" name="Default Changelist" comment="navbar items">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="411bb1c2-8b91-4151-bc20-7840eea33921" name="Default Changelist" comment="added files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608384411088</updated>
       <workItem from="1608384412433" duration="4137000" />
-      <workItem from="1608430402609" duration="4660000" />
+      <workItem from="1608430402609" duration="4971000" />
     </task>
     <task id="LOCAL-00001" summary="starter files to start from scratch and learn again">
       <created>1608385098524</created>
@@ -105,7 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608389337091</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Basics of the webpage">
+      <created>1608435164825</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608435164825</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added files">
+      <created>1608435357388</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608435357388</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,13 +141,15 @@
     <MESSAGE value="setting up the start with navbar" />
     <MESSAGE value="deleted unnecessary things" />
     <MESSAGE value="navbar items" />
-    <option name="LAST_COMMIT_MESSAGE" value="navbar items" />
+    <MESSAGE value="Basics of the webpage" />
+    <MESSAGE value="added files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608389338391">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608435359029">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1608389338391" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1608435359029" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608389068044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
